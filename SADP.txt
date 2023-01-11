@@ -1,5 +1,4 @@
-1 Write a Java Program to implement I/O Decorator for converting uppercase letters to
-lower case letters.
+1 Write a Java Program to implement I/O Decorator for converting uppercase letters to lower case letters.
 LowerCaseInputStream.java
 import java.io.*;
 import java.util.*;
@@ -297,9 +296,7 @@ public class WeatherStation {
  }
 }
 
-4. Write a Java Program to implement Factory method for Pizza Store with createPizza(),
-orederPizza(), prepare(), Bake(), cut(), box(). Use this to create variety of pizza’s
-like NyStyleCheesePizza, ChicagoStyleCheesePizza etc.
+4. Write a Java Program to implement Factory method for Pizza Store with createPizza(), orederPizza(), prepare(), Bake(), cut(), box(). Use this to create variety of pizza’s like NyStyleCheesePizza, ChicagoStyleCheesePizza etc.
 
 PizzaStore.java
 public abstract class PizzaStore{
